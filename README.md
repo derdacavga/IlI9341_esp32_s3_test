@@ -3,5 +3,6 @@ this arduino code make ili9341 display fast and useable with esp32-s3 developmen
 
 in this project we are use LovyanGFX library: https://github.com/lovyan03/LovyanGFX
 
+## Tutorial
 
-video link : https://youtu.be/YQwof_mBS2Y
+[![V2](https://img.youtube.com/vi/YQwof_mBS2Y/0.jpg)](https://youtu.be/YQwof_mBS2Y)
